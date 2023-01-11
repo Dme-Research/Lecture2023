@@ -4,5 +4,7 @@
 Commands used in this lecture
 
 fastp
+
 STAR
+
 Rstudio
